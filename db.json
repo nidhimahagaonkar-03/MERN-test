@@ -1,0 +1,44 @@
+{
+    "admin": {
+        "username": "hukuma@gmail.com",
+        "password": "hu123"
+    },
+    "employees": [
+        {
+            "name": "Hukum",
+            "email": "hcgupta@cstech.in",
+            "phone": "954010044",
+            "department": "HR",
+            "gender": "Male",
+            "education": "MCA",
+            "dateOfJoining": "2021-02-13"
+        },
+        {
+            "name": "Manish",
+            "email": "manish@cstech.in",
+            "phone": "954010033",
+            "department": "Sales",
+            "gender": "Male",
+            "education": "BCA",
+            "dateOfJoining": "2021-02-12"
+        },
+        {
+            "name": "Yash",
+            "email": "yash@cstech.in",
+            "phone": "954010022",
+            "department": "Manager",
+            "gender": "Male",
+            "education": "BSC",
+            "dateOfJoining": "2021-02-11"
+        },
+        {
+            "name": "Abhishek",
+            "email": "abhishek@cstech.in",
+            "phone": "954010033",
+            "department": "HR",
+            "gender": "Male",
+            "education": "MCA",
+            "dateOfJoining": "2021-02-13"
+        }
+    ]
+}
